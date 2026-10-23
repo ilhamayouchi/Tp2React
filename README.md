@@ -1,25 +1,6 @@
-# Tp2React
+# TP 2 : Gestion de l’état local et interactions utilisateurs avec React
 
-Projet React réalisé avec Vite dans le cadre du TP2.
+## Démonstration Vidéo
 
-## Installation
+https://github.com/user-attachments/assets/200942ef-813d-438a-b80a-b25c5bb20bda
 
-```bash
-npm install
-```
-
-## Lancement
-
-```bash
-npm run dev
-```
-
-## Composants réalisés
-
-- Compteur
-- Compteur avec effet
-- Formulaire de nom
-- Message avec bouton
-- Profil éditable
-- Timer
-- Todo List
